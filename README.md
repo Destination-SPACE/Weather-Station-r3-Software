@@ -6,6 +6,6 @@ Software for the Destination Weather Station R3
 - [PlatformIO for Visual Studio Code](https://github.com/Destination-SPACE/Weather-Station-r3-Software/tree/main/examples/PlatformIO)
 
 # License
-Licensed under the [MIT License](https://github.com/Destination-SPACE/Weather-Station-r3-Software/blob/main/LICENSE) or as otherwise referenced.
+Licensed under the [MIT License](https://github.com/Destination-SPACE/Weather-Station-r3-Software/blob/main/LICENSE) or as referenced.
 
 (c) Destination SPACE Inc. 2022
