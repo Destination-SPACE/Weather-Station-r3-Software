@@ -4,7 +4,7 @@ Software for the Destination Weather Station R3
 ## Software Directory
 - [Arduino IDE](https://github.com/Destination-SPACE/Weather-Station-r3-Software/tree/main/examples/Arduino)
 - [PlatformIO for Visual Studio Code](https://github.com/Destination-SPACE/Weather-Station-r3-Software/tree/main/examples/PlatformIO)
-- [UF2](https://github.com/Destination-SPACE/Weather-Station-r3-Software/tree/main/examples/UF2)
+- [UF2](https://github.com/Destination-SPACE/Weather-Station-r3-Software/tree/main/examples/uf2)
 
 # License
 Licensed under the [MIT License](https://github.com/Destination-SPACE/Weather-Station-r3-Software/blob/main/LICENSE) or as referenced.
